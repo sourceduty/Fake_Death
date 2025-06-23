@@ -30,6 +30,6 @@ Canadian probate and family lawyers can guide you through the process of verifyi
 
 #
 
-[emergency AI](https://github.com/sourceduty/Emergency_AI)
+[Emergency AI](https://github.com/sourceduty/Emergency_AI)
 <br>
 [Security](https://github.com/sourceduty/Security)
